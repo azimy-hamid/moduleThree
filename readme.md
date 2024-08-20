@@ -7,7 +7,7 @@ The pdf file.
 
 ## Installation
 
-Just Clone the git repo to your local machine and run the files to see the results
+Just Clone the git repo/download the zip file to your local machine and run the files to see the results
 
 ## Usage
 
