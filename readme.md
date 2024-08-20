@@ -19,3 +19,6 @@ Mostly, if you run each question in the file separately, the result will be more
 
 - Javascript
 - Node Js
+
+## Note
+For the fundamental js exercise, the pdf file and the js files are the same the pdf file is more readable and the .js file is executable :)
